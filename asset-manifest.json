@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sks-media/static/css/main.7064deb2.css",
+    "main.js": "/sks-media/static/js/main.5a5d150a.js",
+    "index.html": "/sks-media/index.html",
+    "main.7064deb2.css.map": "/sks-media/static/css/main.7064deb2.css.map",
+    "main.5a5d150a.js.map": "/sks-media/static/js/main.5a5d150a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.5a5d150a.js"
+  ]
+}
